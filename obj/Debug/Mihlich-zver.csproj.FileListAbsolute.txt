@@ -1,0 +1,2 @@
+C:\Users\user\Desktop\ДЗ универ\Языки программирования, практические работы\3 семестр\Mihlich-zver\obj\Debug\Mihlich-zver.csprojAssemblyReference.cache
+C:\Users\user\Desktop\ДЗ универ\Языки программирования, практические работы\3 семестр\Mihlich-zver\obj\Debug\Mihlich-zver.csproj.CoreCompileInputs.cache
